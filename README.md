@@ -1,6 +1,17 @@
-# EduPath Hub Articles
+# EduPath Hub — Free Student Tools & Guides
 
-Practical, student-focused guides on academic writing, research, citations and study skills. Updated automatically from [EduPath Hub](https://edupathhub.online/).
+EduPath Hub helps college applicants, undergraduates, and graduate students with free calculators, practical study tools, and student-focused guides. This index is maintained automatically and points to the full guides on [edupathhub.online](https://edupathhub.online/).
+
+## Free student tools
+
+- [GPA Calculator](https://edupathhub.online/gpa-calculator) — weighted & unweighted GPA, 4.0 scale
+- [Word Counter & Page Counter](https://edupathhub.online/word-counter) — essay length checks for Common App, UC essays and more
+- [Student Loan Payoff Calculator](https://edupathhub.online/student-loan-calculator) — monthly payments, interest and payoff plans
+- [Study Planner & Exam Countdown](https://edupathhub.online/study-planner) — spaced repetition schedule for exams
+- [Admission Chances Calculator](https://edupathhub.online/admission-chances) — safety, match & reach schools
+- [Citation Generator](https://edupathhub.online/citation-generator) — APA, MLA, Chicago and Harvard citations
+- [Degree ROI](https://edupathhub.online/degree-roi) — compare college costs with projected earnings
+- [College Finder](https://edupathhub.online/college-finder) — search U.S. institutions by criteria
 
 ## Latest guides
 
@@ -34,6 +45,10 @@ Practical, student-focused guides on academic writing, research, citations and s
 28. [How do I fix my dissertation's 'critical analysis' section to match the rubric before my Friday deadline](https://edupathhub.online/articles/how-do-i-fix-my-dissertation-s-critical-analysis-section-to-match-the-rubric-bef) — Transform your dissertation by moving beyond simple summaries to synthesize existing research into a cohesive, original argument that meets rubric goals.
 29. [How to craft a thesis that addresses the professor's prompt for the 'Global Sustainability' essay, due tomorrow](https://edupathhub.online/articles/how-to-craft-a-thesis-that-addresses-the-professor-s-prompt-for-the-global-susta) — Effective thesis statements for sustainability essays must identify the specific friction point where academic concepts clash with real-world obstacles.
 30. [How can I effectively implement a self-testing strategy for my upcoming cognitive psychology exam, while balancing work and study responsibilities before the tight deadline](https://edupathhub.online/articles/how-can-i-effectively-implement-a-self-testing-strategy-for-my-upcoming-cognitiv) — Micro-retrieval and spaced repetition allow students to master cognitive psychology by integrating active recall into small daily gaps and work breaks.
+
+## Student Q&A
+
+Real student questions with practical answers: [EduPath Hub Q&A](https://edupathhub.online/qa).
 
 ---
 _This README is maintained automatically by EduPath Hub. Source site: [edupathhub.online](https://edupathhub.online/)._
